@@ -1,0 +1,22 @@
+.aboutPic{
+    display: flex;
+    margin-left: 1em;
+}
+
+.contact{
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 35em;
+    justify-content: space-between;
+}
+
+.contact img{
+    margin-top: 20em;
+    margin-bottom: 14em;
+}
+
+.contact img{
+    height: 10em;
+}
